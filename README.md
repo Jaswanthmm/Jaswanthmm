@@ -2,4 +2,4 @@
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning Science of Science
 - 💞️ I’m looking to collaborate on data science & Python stuff
-- 📫 How to reach me erjaswanth@gmail.com
+- 📫 Reach me at erjaswanth@gmail.com
